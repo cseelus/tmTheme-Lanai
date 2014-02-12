@@ -39,19 +39,19 @@
 				<key>background</key>
 				<string>#1d1b1d</string>
 				<key>caret</key>
-				<string>#6cecb2</string>
+				<string>#f9f8f9</string>
 				<key>foreground</key>
-				<string>#faf8f9</string>
+				<string>#f9f8f9</string>
 				<key>invisibles</key>
 				<string>#5e5e5e</string>
 				<key>lineHighlight</key>
 				<string>#262326</string>
 				<key>selection</key>
-				<string>#66fbb0</string>
+				<string>#94c9ab</string>
 				<key>gutter</key>
 				<string>#1d1a1d</string>
 				<key>selectionBorder</key>
-				<string>#F99157</string>
+				<string>#2d7f50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -82,7 +82,7 @@
 			<key>name</key>
 			<string>Keyword, Storage</string>
 			<key>scope</key>
-			<string>keyword, storage, storage.type, entity.name.tag.css, meta.tag, constant.other.php, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.html, punctuation.definition.tag, punctuation.definition.tag.*.*</string>
+			<string>keyword, storage, storage.type, entity.name.tag.css, meta.tag, constant.other.*, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.html, punctuation.definition.tag, punctuation.definition.tag.*.*</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -93,7 +93,7 @@
 			<key>name</key>
 			<string>Function, Special Method, Block Level, Operator, Misc</string>
 			<key>scope</key>
-			<string>keyword.operator, constant.other.color, punctuation, punctuation.separator.inheritance.php, entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, entity.other.attribute-name</string>
+			<string>keyword.operator, constant.other.color, ntity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -126,22 +126,11 @@
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+			<string>constant, support.constant, variable.parameter, punctuation.section.embedded, keyword.other.unit, variable, support.other.variable, string.other.link</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#7a85ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tag, Variable, String Link</string>
-			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#fe6767</string>
 			</dict>
 		</dict>
 		<dict>
