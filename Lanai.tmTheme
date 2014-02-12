@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1d1b1d</string>
+				<string>#1d1a1d</string>
 				<key>caret</key>
 				<string>#f9f8f9</string>
 				<key>foreground</key>
@@ -62,7 +62,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#aaa9aa</string>
+				<string>#a9a9a9</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -131,6 +131,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#7a85ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Special</string>
+			<key>scope</key>
+			<string>regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#feeeae</string>
 			</dict>
 		</dict>
 		<dict>
