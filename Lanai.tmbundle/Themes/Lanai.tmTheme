@@ -11,19 +11,19 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#161316</string>
+		<string>#171617</string>
 		<key>foreground</key>
-		<string>#5e5e5e</string>
+		<string>#e6e7e7</string>
 		<key>iconsHover</key>
 		<string>#66CCCC</string>
 		<key>selectionBackground</key>
-		<string>#161316</string>
+		<string>#171617</string>
 		<key>selectionBorder</key>
-		<string>#161316</string>
+		<string>#171617</string>
 		<key>selectionForeground</key>
-		<string>#5e5e5e</string>
+		<string>#e6e7e7</string>
 		<key>selectionIconsHover</key>
-		<string>#161316</string>
+		<string>#171617</string>
 	</dict>
 	<key>name</key>
 	<string>Lanai</string>
